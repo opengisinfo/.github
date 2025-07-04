@@ -1,4 +1,4 @@
-## OpenGIS
+# OpenGIS
 
 Our open source technology stack is built on innovative solutions that empower GIS, web development, and more. By embracing open standards and community-driven tools, we foster a culture of collaboration and sharing knowledge. This approach not only accelerates development but also ensures transparency, flexibility, and long-term sustainability.
 

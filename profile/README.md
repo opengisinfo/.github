@@ -33,6 +33,7 @@ We embrace the power of open source and build using modern, high-performance too
 
 Feel free to contact us through our website [opengis.info](https://opengis.info) or email <info@opengis.info>
 
+- Join the development
 - Report bugs
 - Share your ideas
 - Ask questions

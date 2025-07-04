@@ -3,7 +3,7 @@
 Our open source technology stack is built on innovative solutions that empower GIS, web development, and more. By embracing open standards and community-driven tools, we foster a culture of collaboration and sharing knowledge. This approach not only accelerates development but also ensures transparency, flexibility, and long-term sustainability.
 
 
-## Our work
+## 💼 Our work
 
 - [CMS](https://github.com/opengisinfo/cms) - Headless CMS for editing the content of static websites
 
@@ -29,7 +29,7 @@ We embrace the power of open source and build using modern, high-performance too
   </a>
 </p>
 
-## Contribute
+## ✨ Contribute
 
 Feel free to contact us through our website [opengis.info](https://opengis.info) or email <info@opengis.info>
 

@@ -15,13 +15,15 @@ We embrace the power of open source and build using modern, high-performance too
 
 <p>
   <a href="https://fastify.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Fastify-323330?style=for-the-badge&logo=fastify" alt="Fastify" />
+    <img src="https://img.shields.io/badge/Fastify-323330?style=for-the-badge&logo=fastify" alt="Fastify"/>
   </a>
+  &nbsp;
   <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   </a>
+  &nbsp;
   <a href="https://astro.build/" target="_blank">
-    <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+    <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
   </a>
 </p>
 

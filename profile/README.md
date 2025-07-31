@@ -11,6 +11,7 @@ Our open source technology stack is built on innovative solutions that empower G
 - [Form](https://github.com/opengisinfo/form) - Library for creating forms
 - [Filter](https://github.com/opengisinfo/filter) - Library for creating filters
 - [Table](https://github.com/opengisinfo/table) - Library for creating tables
+- [Widget](https://github.com/opengisinfo/widget) - Library for creating widgets
 ---
 - [Icon-picker](https://github.com/opengisinfo/icon-picker) - Component for icon selection
 

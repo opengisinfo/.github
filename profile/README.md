@@ -6,7 +6,7 @@ Our open source technology stack is built on innovative solutions that empower G
 
 - [CMS](https://github.com/opengisinfo/cms) - Headless CMS for editing the content of static websites
 - [GIS Server](https://github.com/opengisinfo/gis) - Subsystem for creating and editing geospatial data, developed for integration into web applications.
-- [Geohub](https://github.com/opengisinfo/geohub) - Platform for sharing geodata.
+- [Geohub](https://github.com/opengisinfo/geohub) - Platform and services that allow for the collection, storage, publication, and exchange of geospatial data.
 ---
 - [Form](https://github.com/opengisinfo/form) - Library for creating forms
 - [Icon-picker](https://github.com/opengisinfo/icon-picker) - Component for icon selection

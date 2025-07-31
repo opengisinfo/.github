@@ -9,9 +9,10 @@ Our open source technology stack is built on innovative solutions that empower G
 - [Geohub](https://github.com/opengisinfo/geohub) - Platform and services that allow for the collection, storage, publication, and exchange of geospatial data.
 ---
 - [Form](https://github.com/opengisinfo/form) - Library for creating forms
-- [Icon-picker](https://github.com/opengisinfo/icon-picker) - Component for icon selection
 - [Filter](https://github.com/opengisinfo/filter) - Library for creating filters
 - [Table](https://github.com/opengisinfo/table) - Library for creating tables
+---
+- [Icon-picker](https://github.com/opengisinfo/icon-picker) - Component for icon selection
 
 ## Open Source
 

@@ -7,13 +7,12 @@ Our open source technology stack is built on innovative solutions that empower G
 - [CMS](https://github.com/opengisinfo/cms) - Headless CMS for editing the content of static websites
 - [GIS Server](https://github.com/opengisinfo/gis) - Subsystem for creating and editing geospatial data, developed for integration into web applications.
 - [GeoHub](https://github.com/opengisinfo/geohub) - Platform and services that allow for the collection, storage, publication, and exchange of geospatial data.
+- [BPMN](https://github.com/opengisinfo/bpmn) - Opengis/BPMN is a BPMN 2.0 platform for modeling, configuring, and executing business processes.
+- [DOCM](https://github.com/opengisinfo/docm) - The Document Generation Platform (DOCM) lets you create, manage, and export documents based on templates and structured data.
 ---
 - [Form](https://github.com/opengisinfo/form) - Library for creating forms
 - [Filter](https://github.com/opengisinfo/filter) - Library for creating filters
-- [Table](https://github.com/opengisinfo/table) - Library for creating tables
-- [Widget](https://github.com/opengisinfo/widget) - Library for creating widgets
 ---
-- [Icon-picker](https://github.com/opengisinfo/icon-picker) - Component for icon selection
 
 ## Open Source
 
